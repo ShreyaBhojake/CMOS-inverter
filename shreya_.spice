@@ -1,0 +1,5 @@
+* SPICE3 file created from shreya_.ext - technology: sky130A
+
+X0 out in vss vss sky130_fd_pr__nfet_01v8 ad=0.45 pd=2.9 as=0.45 ps=2.9 w=1 l=0.15
+X1 out in vdd vdd sky130_fd_pr__pfet_01v8 ad=2.1 pd=6.2 as=2.1 ps=6.2 w=2.1 l=0.15
+C0 vdd vss 2.35942f **FLOATING
